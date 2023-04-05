@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kilrogg
 - 👀 I’m interested in Python, Django, PostgreSQL, SOLR, HTML, CSS, machine learning, performance optimization, distributed systems ...
-- 🌱 I’m currently learning CD/CI
+- 🌱 I’m currently learning CI/CD
 - 💞️ I’m looking to collaborate on python web projects
 - 📫 Reach me via Twitter: @Bensensen
 
